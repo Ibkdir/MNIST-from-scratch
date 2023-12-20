@@ -1,7 +1,7 @@
 # MNIST Digit Classification
 
 ## Overview
-This project features a custom-built multi-layer perceptron (MLP) for MNIST digit classification, uniquely created without standard deep learning frameworks like PyTorch, TensorFlow, or Keras.
+Hi Everyone. This project features a custom-built multi-layer perceptron (MLP) for MNIST digit classification, uniquely created without standard deep learning frameworks like PyTorch, TensorFlow, or Keras.
 
 The model utilizes a total of four layers for predictions, comprising an input layer with 784 neurons, two hidden layers with 128 and 64 neurons respectively, and an output layer containing 10 neurons.
 
